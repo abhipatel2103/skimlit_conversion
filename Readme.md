@@ -1,4 +1,4 @@
-﻿# SkimLit Conversion using Deep Learning and NLP (TensorFlow)
+﻿# Abstract Simplifier with Deep Learning and NLP (TensorFlow)
 
 Problem statement
 
